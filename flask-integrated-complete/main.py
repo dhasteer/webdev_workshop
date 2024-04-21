@@ -1,4 +1,4 @@
-from flask import Flask,redirect,url_for,render_template,request
+from flask import Flask, redirect, url_for, render_template, request
 from fileinput import filename
 from classify.imgclassify import img_classify
 
